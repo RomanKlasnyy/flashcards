@@ -1,5 +1,5 @@
 # Flashcards
-This program allows you to check your knowledge in "keyword-definition" style. Import/export, create and delete flashcards, track your moves and errors and checks your harders flashcards. Includes CLI support.
+This program allows you to check your knowledge in "keyword-definition" style. Import/export, create and delete flashcards, track your moves and errors and checks your harder flashcards. Includes CLI support.
 
 ## Supported languages:
 - Go (1.22.0)
